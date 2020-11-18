@@ -1,6 +1,6 @@
 {
-	"author": "Jonathan Calderon",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jonathan Calderon",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
